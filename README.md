@@ -1,16 +1,24 @@
-## Hi there 👋
+# Gabriel Junior Rodrigues Ferreira
 
-<!--
-**gabriieljunior/gabriieljunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Sistemas | Técnico em TI | Entusiasta de Dados
 
-Here are some ideas to get you started:
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com experiência em TI, análise de dados no **Power BI** e modelagem de banco de dados. Tenho interesse em projetos que envolvam **segurança da informação, desenvolvimento web e análise de dados**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Habilidades
+- Power BI e análise de dados
+- Modelagem e implementação de banco de dados
+- HTML, CSS e JavaScript
+- Fundamentos de TI (hardware e software)
+- LGPD e segurança da informação
+- Trabalho em equipe e aprendizado rápido
+
+---
+
+## 📫 Contato
+- Email: **gabrielpind@gmail.com**  
+- GitHub: **gabriieljunior**  
+
+---
+⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela nos repositórios!
